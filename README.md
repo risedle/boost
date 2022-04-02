@@ -1,6 +1,6 @@
-# Risedle Multiply
+# Risedle Boost
 
-Risedle Multiply helps users to multiply their exposure to their favorite tokens.
+Rise Boost allows users to boost their exposure to any crypto assets.
 
 It's powered by Rari Fuse.
 
