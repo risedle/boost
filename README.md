@@ -10,8 +10,8 @@ Requires [foundry](https://github.com/gakonst/foundry#installation).
 
 1. Clone the repository
    ```
-   git@github.com:risedle/multiply.git
-   cd multiply/
+   git@github.com:risedle/boost.git
+   cd boost/
    ```
 2. Download all the dependencies
    ```
